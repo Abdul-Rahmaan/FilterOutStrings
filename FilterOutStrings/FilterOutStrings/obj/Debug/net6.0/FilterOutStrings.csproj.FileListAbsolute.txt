@@ -1,0 +1,15 @@
+E:\leetProblems\FilterOutStrings\FilterOutStrings\FilterOutStrings\FilterOutStrings\bin\Debug\net6.0\FilterOutStrings.exe
+E:\leetProblems\FilterOutStrings\FilterOutStrings\FilterOutStrings\FilterOutStrings\bin\Debug\net6.0\FilterOutStrings.deps.json
+E:\leetProblems\FilterOutStrings\FilterOutStrings\FilterOutStrings\FilterOutStrings\bin\Debug\net6.0\FilterOutStrings.runtimeconfig.json
+E:\leetProblems\FilterOutStrings\FilterOutStrings\FilterOutStrings\FilterOutStrings\bin\Debug\net6.0\FilterOutStrings.dll
+E:\leetProblems\FilterOutStrings\FilterOutStrings\FilterOutStrings\FilterOutStrings\bin\Debug\net6.0\FilterOutStrings.pdb
+E:\leetProblems\FilterOutStrings\FilterOutStrings\FilterOutStrings\FilterOutStrings\obj\Debug\net6.0\FilterOutStrings.csproj.AssemblyReference.cache
+E:\leetProblems\FilterOutStrings\FilterOutStrings\FilterOutStrings\FilterOutStrings\obj\Debug\net6.0\FilterOutStrings.GeneratedMSBuildEditorConfig.editorconfig
+E:\leetProblems\FilterOutStrings\FilterOutStrings\FilterOutStrings\FilterOutStrings\obj\Debug\net6.0\FilterOutStrings.AssemblyInfoInputs.cache
+E:\leetProblems\FilterOutStrings\FilterOutStrings\FilterOutStrings\FilterOutStrings\obj\Debug\net6.0\FilterOutStrings.AssemblyInfo.cs
+E:\leetProblems\FilterOutStrings\FilterOutStrings\FilterOutStrings\FilterOutStrings\obj\Debug\net6.0\FilterOutStrings.csproj.CoreCompileInputs.cache
+E:\leetProblems\FilterOutStrings\FilterOutStrings\FilterOutStrings\FilterOutStrings\obj\Debug\net6.0\FilterOutStrings.dll
+E:\leetProblems\FilterOutStrings\FilterOutStrings\FilterOutStrings\FilterOutStrings\obj\Debug\net6.0\refint\FilterOutStrings.dll
+E:\leetProblems\FilterOutStrings\FilterOutStrings\FilterOutStrings\FilterOutStrings\obj\Debug\net6.0\FilterOutStrings.pdb
+E:\leetProblems\FilterOutStrings\FilterOutStrings\FilterOutStrings\FilterOutStrings\obj\Debug\net6.0\FilterOutStrings.genruntimeconfig.cache
+E:\leetProblems\FilterOutStrings\FilterOutStrings\FilterOutStrings\FilterOutStrings\obj\Debug\net6.0\ref\FilterOutStrings.dll
